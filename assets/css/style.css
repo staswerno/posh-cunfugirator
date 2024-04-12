@@ -1,0 +1,26 @@
+.hidden {
+  display: none;
+}
+
+.block {
+  display: block;
+}
+
+body {
+  background-color: lightblue;
+  font-family: "Courier New", Courier, monospace;
+  color: hotpink;
+}
+
+button {
+  cursor: pointer;
+  border: solid 1px black;
+  color: black;
+  background-color: palegoldenrod;
+}
+
+p {
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=style.css.map */

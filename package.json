@@ -8,7 +8,7 @@
     "sass-prod": "sass --no-source-map --style=compressed assets/scss:assets/css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "stas werno",
+  "author": "stas",
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.75.0"
