@@ -1,5 +1,6 @@
 const button = document.querySelector('#btn');
 const hello = document.querySelector('#hello');
+const test = "test";
 
 button.addEventListener('click', () => {
   if (hello.classList.contains('hidden')) {
